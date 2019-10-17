@@ -1,0 +1,349 @@
+[12-Feb-2018 01:17:53 UTC] PHP Warning:  unpack(): Type c: not enough input, need 1, have 0 in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/vendor/de77/TGA.php on line 93
+[12-Feb-2018 01:17:53 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/mintZ.jpg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(1122): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(740): Filemanager->get_thumbnail('/home/bankssb/p...')
+#4 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(106): Filemanager->preview(true)
+#5 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
+[12-Feb-2018 01:18:22 UTC] PHP Warning:  unpack(): Type c: not enough input, need 1, have 0 in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/vendor/de77/TGA.php on line 93
+[12-Feb-2018 01:18:22 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/mintZ.jpg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(1122): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(740): Filemanager->get_thumbnail('/home/bankssb/p...')
+#4 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(106): Filemanager->preview(true)
+#5 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
+[12-Feb-2018 01:24:09 UTC] PHP Warning:  unpack(): Type c: not enough input, need 1, have 0 in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/vendor/de77/TGA.php on line 93
+[12-Feb-2018 01:24:09 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/mintZ.jpg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(1122): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(740): Filemanager->get_thumbnail('/home/bankssb/p...')
+#4 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(106): Filemanager->preview(true)
+#5 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
+[12-Feb-2018 01:24:15 UTC] PHP Warning:  unpack(): Type c: not enough input, need 1, have 0 in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/vendor/de77/TGA.php on line 93
+[12-Feb-2018 01:24:15 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/mintZ.jpg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(1122): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(740): Filemanager->get_thumbnail('/home/bankssb/p...')
+#4 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(106): Filemanager->preview(true)
+#5 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
+[12-Feb-2018 01:31:25 UTC] PHP Warning:  unpack(): Type c: not enough input, need 1, have 0 in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/vendor/de77/TGA.php on line 93
+[12-Feb-2018 01:31:25 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/mintZ.jpg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(1122): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(740): Filemanager->get_thumbnail('/home/bankssb/p...')
+#4 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(106): Filemanager->preview(true)
+#5 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
+[09-Jun-2018 14:43:10 UTC] PHP Notice:  Undefined index: extension in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php on line 1089
+[26-Jun-2018 02:43:44 UTC] PHP Notice:  Undefined index: extension in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php on line 1089
+[31-Jul-2018 08:17:42 UTC] PHP Warning:  mkdir(): File exists in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php on line 1120
+[31-Jul-2018 08:17:42 UTC] PHP Warning:  mkdir(): File exists in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php on line 1120
+[31-Jul-2018 08:17:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php:1120) in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php on line 745
+[31-Jul-2018 08:17:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php:1120) in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php on line 746
+[31-Jul-2018 08:17:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php:1120) in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php on line 747
+[31-Jul-2018 08:17:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php:1120) in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php on line 748
+[31-Jul-2018 08:17:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php:1120) in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php on line 745
+[31-Jul-2018 08:17:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php:1120) in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php on line 746
+[31-Jul-2018 08:17:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php:1120) in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php on line 747
+[31-Jul-2018 08:17:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php:1120) in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php on line 748
+[17-Sep-2018 09:17:33 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/img.jpg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(1122): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(740): Filemanager->get_thumbnail('/home/bankssb/p...')
+#4 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(106): Filemanager->preview(true)
+#5 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
+[17-Sep-2018 09:20:00 UTC] PHP Warning:  rename(/home/bankssb/public_html/images-data/images/library/images-data/images/library/img.jpg,/home/bankssb/public_html/images-data/images/library/images-data/images/library/z.php): No such file or directory in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php on line 358
+[17-Sep-2018 09:20:20 UTC] PHP Warning:  rename(/home/bankssb/public_html/images-data/images/library/images-data/images/library/img.jpg,/home/bankssb/public_html/images-data/images/library/images-data/images/library/z.php): No such file or directory in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php on line 358
+[13-Oct-2018 05:30:53 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/2.php.jpg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(653): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(127): Filemanager->add()
+#4 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
+[13-Oct-2018 05:31:12 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/2.php.jpg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(1122): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(740): Filemanager->get_thumbnail('/home/bankssb/p...')
+#4 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(106): Filemanager->preview(true)
+#5 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
+[13-Oct-2018 05:32:14 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/2.php.jpg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(1122): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(740): Filemanager->get_thumbnail('/home/bankssb/p...')
+#4 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(106): Filemanager->preview(true)
+#5 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
+[13-Oct-2018 05:32:46 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/2.php.jpg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(1122): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(740): Filemanager->get_thumbnail('/home/bankssb/p...')
+#4 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(106): Filemanager->preview(true)
+#5 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
+[13-Oct-2018 05:33:29 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/2.php1.jpg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(653): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(127): Filemanager->add()
+#4 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
+[13-Oct-2018 05:33:42 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/2.php1.jpg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(1122): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(740): Filemanager->get_thumbnail('/home/bankssb/p...')
+#4 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(106): Filemanager->preview(true)
+#5 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
+[13-Oct-2018 05:33:42 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/2.php.jpg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(1122): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(740): Filemanager->get_thumbnail('/home/bankssb/p...')
+#4 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(106): Filemanager->preview(true)
+#5 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
+[13-Oct-2018 05:34:38 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/2.php1.jpg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(1122): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(740): Filemanager->get_thumbnail('/home/bankssb/p...')
+#4 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(106): Filemanager->preview(true)
+#5 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
+[13-Oct-2018 05:34:38 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/2.php.jpg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(1122): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(740): Filemanager->get_thumbnail('/home/bankssb/p...')
+#4 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(106): Filemanager->preview(true)
+#5 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
+[13-Oct-2018 05:35:07 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/2.php2.jpg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(653): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(127): Filemanager->add()
+#4 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
+[13-Oct-2018 05:35:18 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/2.php.jpg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(1122): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(740): Filemanager->get_thumbnail('/home/bankssb/p...')
+#4 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(106): Filemanager->preview(true)
+#5 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
+[13-Oct-2018 05:35:18 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/2.php1.jpg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(1122): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(740): Filemanager->get_thumbnail('/home/bankssb/p...')
+#4 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(106): Filemanager->preview(true)
+#5 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
+[13-Oct-2018 05:35:18 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/2.php2.jpg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(1122): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(740): Filemanager->get_thumbnail('/home/bankssb/p...')
+#4 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(106): Filemanager->preview(true)
+#5 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
+[13-Oct-2018 05:36:06 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/2.php2;p.jpg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(1122): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(740): Filemanager->get_thumbnail('/home/bankssb/p...')
+#4 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(106): Filemanager->preview(true)
+#5 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
+[13-Oct-2018 05:36:06 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/2.php.jpg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(1122): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(740): Filemanager->get_thumbnail('/home/bankssb/p...')
+#4 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(106): Filemanager->preview(true)
+#5 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
+[13-Oct-2018 05:36:06 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/2.php1.jpg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(1122): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(740): Filemanager->get_thumbnail('/home/bankssb/p...')
+#4 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(106): Filemanager->preview(true)
+#5 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
+[13-Oct-2018 05:38:28 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/2.php.jpg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(1122): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(740): Filemanager->get_thumbnail('/home/bankssb/p...')
+#4 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(106): Filemanager->preview(true)
+#5 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
+[13-Oct-2018 05:38:28 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/2.php2;p.jpg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(1122): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(740): Filemanager->get_thumbnail('/home/bankssb/p...')
+#4 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(106): Filemanager->preview(true)
+#5 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
+[13-Oct-2018 05:38:28 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/2.php2222.jpg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(1122): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(740): Filemanager->get_thumbnail('/home/bankssb/p...')
+#4 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(106): Filemanager->preview(true)
+#5 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
+[13-Oct-2018 05:39:19 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/2.php.jpeg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(653): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(127): Filemanager->add()
+#4 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
+[13-Oct-2018 05:39:48 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/2.php2222.jpg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(1122): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(740): Filemanager->get_thumbnail('/home/bankssb/p...')
+#4 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(106): Filemanager->preview(true)
+#5 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
+[13-Oct-2018 05:39:50 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/2.php2;p.jpg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(1122): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(740): Filemanager->get_thumbnail('/home/bankssb/p...')
+#4 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(106): Filemanager->preview(true)
+#5 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
+[13-Oct-2018 05:39:51 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/2.php.jpg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(1122): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(740): Filemanager->get_thumbnail('/home/bankssb/p...')
+#4 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(106): Filemanager->preview(true)
+#5 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
+[13-Oct-2018 05:39:51 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/2.php.jpeg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(1122): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(740): Filemanager->get_thumbnail('/home/bankssb/p...')
+#4 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(106): Filemanager->preview(true)
+#5 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
+[13-Oct-2018 05:48:25 UTC] PHP Warning:  rename(/home/bankssb/public_html/images-data/images/library/vul_test/target/Filemanager/userfiles/shell.txt,/home/bankssb/public_html/images-data/images/library/vul_test/target/Filemanager/userfiles/../shell.php): No such file or directory in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php on line 358
+[13-Oct-2018 05:49:15 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/2.php2;p.jpg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(1122): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(740): Filemanager->get_thumbnail('/home/bankssb/p...')
+#4 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(106): Filemanager->preview(true)
+#5 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
+[13-Oct-2018 05:49:15 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/2.php.jpg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(1122): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(740): Filemanager->get_thumbnail('/home/bankssb/p...')
+#4 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(106): Filemanager->preview(true)
+#5 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
+[13-Oct-2018 05:49:15 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/2.php.jpeg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(1122): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(740): Filemanager->get_thumbnail('/home/bankssb/p...')
+#4 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(106): Filemanager->preview(true)
+#5 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
+[13-Oct-2018 05:49:16 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/2.php2222.jpg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(1122): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(740): Filemanager->get_thumbnail('/home/bankssb/p...')
+#4 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(106): Filemanager->preview(true)
+#5 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
+[13-Oct-2018 07:21:43 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/2.php.jpeg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(1122): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(740): Filemanager->get_thumbnail('/home/bankssb/p...')
+#4 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(106): Filemanager->preview(true)
+#5 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
+[13-Oct-2018 07:21:43 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/2.php2;p.jpg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(1122): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(740): Filemanager->get_thumbnail('/home/bankssb/p...')
+#4 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(106): Filemanager->preview(true)
+#5 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
+[13-Oct-2018 07:21:44 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/bankssb/public_html/images-data/images/library/2.php2222.jpg' appears to be an invalid image source.' in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/bankssb/p...')
+#1 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php(184): call_user_func(Array, '/home/bankssb/p...')
+#2 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(1122): WideImage::load('/home/bankssb/p...')
+#3 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.class.php(740): Filemanager->get_thumbnail('/home/bankssb/p...')
+#4 /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/filemanager.php(106): Filemanager->preview(true)
+#5 {main}
+  thrown in /home/bankssb/public_html/superssb/static/js/filemanager/connectors/php/inc/vendor/wideimage/lib/WideImage.php on line 226
